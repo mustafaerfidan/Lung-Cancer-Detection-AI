@@ -56,3 +56,4 @@ if __name__ == "__main__":
     # Kaydet
     torch.save(egitilmis_model.state_dict(), "kanser_tespit_modeli.pth")
     print("\n💾 Model başarıyla 'kanser_tespit_modeli.pth' olarak kaydedildi!")
+    # açıklama satırı 
